@@ -1,21 +1,82 @@
-<h1 align="center">Hi 👋, I'm Dilshan</h1>
-<h3 align="center">Full Stack Developer from Sri Lanka</h3>
+<!-- PROFILE README: DilshanHF -->
 
-- 🌱 I’m currently learning **HTML,CSS,JAVA SCRIPT**
+<div align="center">
 
-- 💬 Ask me about **Java,MySql,JavaFx,**
+  <!-- Optional banner (clean) -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:111827&height=140&section=header&text=Dilshan%20Fonseka&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-- 📫 How to reach me **dilshanfonseka76@gmail.com**
+  <p>
+    <b>Associate Software Engineer @ NMI INFRA</b> • Full-Stack Developer • Sri Lanka 🇱🇰
+  </p>
 
-- ⚡ Fun fact **Travelling**
+  <p>
+    <a href="https://www.linkedin.com/in/dilshan-fonseka-a43980237" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://medium.com/@hewafonsekage217" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-111827?style=flat&logo=medium&logoColor=white" />
+    </a>
+    <a href="https://stackoverflow.com/users/22975050/dilshan-fonseka" target="_blank">
+      <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=flat&logo=stackoverflow&logoColor=white" />
+    </a>
+    <a href="mailto:dilshanfonseka76@gmail.com">
+      <img src="https://img.shields.io/badge/Email-334155?style=flat&logo=gmail&logoColor=white" />
+    </a>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dilshan-fonseka-a43980237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dilshan-fonseka-a43980237/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22975050/dilshan-fonseka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22975050/dilshan-fonseka" height="30" width="40" /></a>
-<a href="https://medium.com/@hewafonsekage217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hewafonsekage217" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dilshanfonseka76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dilshanfonseka76" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
+
+## 👋 About me
+
+- 💻 Full-stack developer building clean, scalable web apps  
+- 🌱 Currently learning: **Modern Frontend (Next.js / TypeScript)** + **UI/UX**  
+- 💬 Ask me about: **Java, MySQL, JavaFX, Web Development**  
+- ⚡ Fun fact: I enjoy **travelling** ✈️
+
+---
+
+## 🧰 Tech stack
+
+<div align="center">
+  <!-- icons: https://skillicons.dev -->
+  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,nextjs,react,tailwind,nodejs,express,mysql,postgres,git,github,docker,figma&perline=8" />
+</div>
+
+---
+
+## 🚀 Featured projects
+
+- **Card Management UI (Next.js)** → https://github.com/DilshanHF/Card_management_UI_Next.js  
+- **Zyntech (Admin Dashboard)** → https://github.com/DilshanHF/Zyntech  
+- **Connect-4 Game (OOP Coursework)** → https://github.com/DilshanHF/Connect-4-Game  
+- **Inrich Design Studio (Project)** → https://github.com/DilshanHF/Inrich_Design_Studio_1stSem_Final_Project  
+
+> Want this section to look even better? Add 1–2 lines per project (what it does + tech used).
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DilshanHF&show_icons=true&hide_title=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilshanHF&layout=compact" />
+
+  <br/>
+
+  <img height="160" src="https://streak-stats.demolab.com?user=DilshanHF" />
+
+</div>
+
+---
+
+## 🤝 Let’s connect
+
+- LinkedIn: https://www.linkedin.com/in/dilshan-fonseka-a43980237  
+- Medium: https://medium.com/@hewafonsekage217  
+- Stack Overflow: https://stackoverflow.com/users/22975050/dilshan-fonseka  
+- Email: dilshanfonseka76@gmail.com
+
+<!-- End -->
